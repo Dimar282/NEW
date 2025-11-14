@@ -1,4 +1,4 @@
-# NEW
+# BASE file 
 How to start building? 
 # MAXI – System Zarządzania Danymi
 
