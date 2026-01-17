@@ -5,7 +5,7 @@ How to start building?
 **MAXI** to nowoczesny, skalowalny system do przetwarzania i analizy dużych zbiorów danych w czasie rzeczywistym.
 
 ![MAXI Logo](https://via.placeholder.com/800x200.png?text=MAXI+Logo)  
-*(Zamień powyższy link na prawdziwe logo, jeśli masz)*
+
 
 ---
 
